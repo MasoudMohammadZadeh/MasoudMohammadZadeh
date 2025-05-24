@@ -18,7 +18,7 @@
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=masoudmohammadzadeh&card_width=410&theme=github-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=masoudmohammadzadeh&card_width=405&theme=github-dark" />
   <img src="https://github-readme-stats.vercel.app/api?username=masoudmohammadzadeh&card_width=400&theme=blue-green&show_icons=true&locale=en" />
 </div>
 
