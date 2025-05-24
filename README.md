@@ -3,7 +3,6 @@
 <img src="welcome.gif" alt="welcome gif" align="center" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masoudmohammadzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="masoudmohammadzadeh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masoudmohammadzadeh" alt="masoudmohammadzadeh" /></a> </p>
 
