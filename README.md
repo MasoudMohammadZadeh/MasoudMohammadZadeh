@@ -9,7 +9,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masoudmohammadzadeh" alt="masoudmohammadzadeh" /></a> </p>
 
 <h3 align="left">My Personal Website:</h3>
-<p >https://masoudmohammadzadeh.github.io/</p>
+<a href="https://masoudmohammadzadeh.github.io/" target="blank"><img align="center" src="personal-web.png" alt="https://masoudmohammadzadeh.github.io/" height="40" width="40" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
