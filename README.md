@@ -16,12 +16,15 @@
 
 <h3 align="left">  My Stats :</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoudmohammadzadeh&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="masoudmohammadzadeh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masoudmohammadzadeh&theme=blue-green&show_icons=true&locale=en" alt="masoudmohammadzadeh" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=masoudmohammadzadeh&theme=github-dark" alt="GitHub Streak" /></a>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=masoudmohammadzadeh&card_width=500&theme=github-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=masoudmohammadzadeh&card_width=400&theme=blue-green&show_icons=true&locale=en" />
+</div>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoudmohammadzadeh&card_width=942&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="masoudmohammadzadeh" /></p>
 
 
 
