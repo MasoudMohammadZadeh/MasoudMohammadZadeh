@@ -23,7 +23,7 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoudmohammadzadeh&card_width=940&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="masoudmohammadzadeh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoudmohammadzadeh&card_width=935&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="masoudmohammadzadeh" /></p>
 
 
 
